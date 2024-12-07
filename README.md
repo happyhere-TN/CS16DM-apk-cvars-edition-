@@ -1,4 +1,4 @@
-# CS16DM-apk-cvars-edition-
+# CS16DM-apk-cvars-edition
 
 **CS16DM ?**
 its beta new engine apk build it with regamedll cvars to deathmatch and teamdeathmatch mod for cs16client android

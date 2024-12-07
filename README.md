@@ -8,8 +8,8 @@ Press buy button to get buy simple menu 🤏
 ![Image](https://github.com/user-attachments/assets/575b4b25-e830-49bf-9637-03713565aab2)
 
 **--img 2**
-To enable bhop: `sv_autobunnyhopping 1`
 
+To enable bhop: `sv_autobunnyhopping 1`
 To enable feeforall: `mp_freeforall 1`
 ![Image](https://github.com/user-attachments/assets/516d950a-d499-4ce2-ab35-21059021fa98)
 

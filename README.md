@@ -24,6 +24,9 @@ and extarct the zip
 **3-** install cs16tdm apk 
 
 > **NOTE:**
->if u want to play online with players on custom respawn maps u can play just change the name map to original map example:
+>if u want to play online with players on custom respawn maps u can play just change the name map to original map
+example:
+
 >dm_dust2
+
 >de_dust2

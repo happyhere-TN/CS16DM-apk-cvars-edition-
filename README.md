@@ -19,8 +19,7 @@ and extarct the zip
 
 **2-** Open `custom respawn Dm maps` folder 📁 and copy maps u find it to cstrike game data to copy using xash3D new engine apk
 
-**custom respawn Dm maps?**
-
+**custom respawn Dm maps?** 
 its maps from original maps but the respawn points changeed 
 
 **3-** install cs16tdm apk 

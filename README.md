@@ -1,8 +1,10 @@
 # CS16DM-apk-cvars-edition
 
-**CS16DM ?**
+**CS16DM**
+
 its original cs16client apk
-- i just add some cfg files with cvars from regamedll_CS to make it deathmatch mod and teamdeathmatch mod for cs16client android
+
+i just add some cfg files with cvars from regamedll_CS to make it deathmatch mod and teamdeathmatch mod for cs16client android
 
 **im not build the apk**
 Original cs16client by [velaron](https://github.com/Velaron/cs16-client)

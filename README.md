@@ -16,7 +16,7 @@ Press buy button to get buy simple menu 🤏
 **--img 2**
 
 To enable bhop: `sv_autobunnyhopping 1`
-To enable feeforall: `mp_freeforall 1`
+To enable freeforall: `mp_freeforall 1`
 ![Image](https://github.com/user-attachments/assets/516d950a-d499-4ce2-ab35-21059021fa98)
 
 # //download and install
